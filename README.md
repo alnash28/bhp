@@ -1,4 +1,4 @@
-# blkhpy
+# bhp 
 
-Reading up BH Python by Justin Seitz. Seems like a good read. 
+Reading up Black Hat Python by Justin Seitz. Seems like a good read. 
 
